@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "434483246854",
+    "project_id": "flutter-lesly",
+    "storage_bucket": "flutter-lesly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434483246854:android:fbec971cb7a8395d9e1087",
+        "android_client_info": {
+          "package_name": "com.example.startup_namer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434483246854-372rml89ca1oq8ju7mdfv4erartprjd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQnkyU5QQ7-7S_ZCiDw8OxbzbYv4goBcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434483246854-372rml89ca1oq8ju7mdfv4erartprjd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434483246854-luehah9m1dmgjv1v02cs2r8oe6ih0b60.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.startupNamer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
